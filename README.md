@@ -4,6 +4,9 @@
 
 Welcome to the Pizza Sales Report repository! This project focuses on analyzing pizza sales data using SQL Server, Power BI, and DAX queries. The goal is to provide valuable insights into pizza sales, including top-performing pizzas in terms of revenue, total profit, total orders, and more.
 
+![All_Pizza_Category](https://github.com/Ruchi-6/Pizza_Sales_Report/assets/92905284/b5f33fff-80a9-4382-af93-3d88e5e36398)
+
+
 ## Key Insights
 
 ### 1. Top 5 Revenue-Generating Pizzas
